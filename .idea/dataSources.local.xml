@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - emam@localhost" uuid="08ef989b-85e9-4230-a397-eca188e4950d">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>emam.*</schema-pattern>
+      <default-schemas>emam.*</default-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+{
+  "name": "vendor_name/wordpress theme",
+  "description": "from scratch",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "yahongie",
+      "email": "dev.ahmed.saeed@mail.com"
+    }
+  ]
+}

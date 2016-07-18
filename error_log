@@ -1,0 +1,7 @@
+[30-Mar-2016 11:11:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/oryxtest/public_html/emam/wp-content/themes/Emam/footer.php on line 33
+[30-Mar-2016 11:11:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/oryxtest/public_html/emam/wp-content/themes/Emam/footer.php on line 33
+[30-Mar-2016 13:12:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oryxtest/public_html/emam/wp-content/themes/Emam/service.php on line 17
+[30-Mar-2016 13:13:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oryxtest/public_html/emam/wp-content/themes/Emam/service.php on line 17
+[30-Mar-2016 13:22:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oryxtest/public_html/emam/wp-content/themes/Emam/service.php on line 17
+[30-Mar-2016 13:25:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oryxtest/public_html/emam/wp-content/themes/Emam/service.php on line 17
+[30-Mar-2016 13:31:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oryxtest/public_html/emam/wp-content/themes/Emam/service.php on line 17
